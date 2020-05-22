@@ -1,0 +1,210 @@
+
+body {
+    background-color: #EFF6FF;
+    width: 100%;
+    font-family: 'MyWebFont', Arial, sans-serif;
+    color: #2A4A5C;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    margin: 30px;
+}
+
+.container1 {
+    width: 100%;
+    display: flex;
+    background: url(img/bg.png) no-repeat;
+    background-size: 100%;
+
+}
+
+
+.container2 {
+    padding-left: 50px;
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.svg-img {
+    padding-left: 50px;
+}
+
+h1 {
+    font-size: 20px;
+    padding-top: 50px;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 16px;
+    padding-top: 30px;
+}
+
+h3 {
+    font-size: 13px;
+    color: #7B8A92;
+}
+
+h4 {
+    color: #7B8A92;
+    font-size: 10px;
+}
+
+.clicF {
+    background: #255A9B;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    width: 200px;
+}
+
+.clicF:hover {
+
+}
+
+.clicIn {
+    margin-left: 30px;
+    background: #0076B6;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    width: 200px;
+}
+
+.svg-fb {
+    padding-top: 20px;
+    padding-left: 10px;
+    position: absolute;
+}
+
+.svg-link {
+    padding-top: 20px;
+    padding-left: 250px;
+    position: absolute;
+}
+
+.clic {
+    position: relative;
+    font-size: 10px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    display: flex;
+    width: 100%;
+}
+
+.lines {
+    position: relative;
+    padding-top: 40px;
+}
+
+.or {
+    position: absolute;
+    margin-left: 200px;
+    top: 12px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #fff;
+}
+ hr {
+     width: 130px;
+     padding-right: 120px;
+     align: center;
+ }
+
+.line {
+    margin-bottom: 15px;
+    border-bottom: 1px solid;
+    width: 20%;
+    color: #EEEEEE;
+}
+
+.input-container {
+    font-size: 10px;
+    padding-top: 40px;
+    display: flex;
+}
+
+.input {
+    width: 200px;
+    display: inline;
+    border: 1px solid #EEEEEE;
+    margin-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.input-container1 {
+    position: relative;
+    display: flex;
+}
+
+.input-container2 {
+    position: relative;
+    display: flex;
+}
+
+.inputText {
+   padding-top: 5px;
+    padding-left: 5px;
+    position: absolute;
+}
+
+.investorType {
+    padding-top: 25px;
+    display: flex;
+}
+
+ul {
+    list-style-type:none;
+}
+
+li:before {
+    padding-right: 5px;
+    content: "\26AC";
+}
+
+li {
+    margin-right: 20px;
+}
+
+.color:hover {
+    color: #3698FB;
+    cursor: pointer;
+}
+
+.createAcc {
+    margin-top: 20px;
+    background: #3698FB;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+}
+
+.agree {
+    padding-top: 45px;
+    font-size: 10px;
+    color: #AFAFAF;
+}
+
+.inputAgree {
+    width: 10px;
+    border-color: #EEEEEE;
+}
+
+.investorType {
+    font-size: 10px;
+    font-weight: bold;
+
+}
+
